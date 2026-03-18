@@ -28,6 +28,10 @@ The project is deployed as a web application:
 
 Note: This application was developed as part of a group project.
 
+## Project Preview
+
+![App Screenshot](images/app_screenshot.png)
+
 ## Files Included
 - Source code (Python)
 - Application file (app.py)
